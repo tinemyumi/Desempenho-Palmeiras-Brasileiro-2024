@@ -6,7 +6,7 @@ Este repositório contém um dashboard do Power BI com estatísticas do Palmeira
 
 ## 📊 Imagem do Dashboard
 
-![Dashboard do Palmeiras](Dashboard Análise de Desempenho.png)
+![Dashboard do Palmeiras](images/Dashboard Análise de Desempenho.png)
 
 > O print acima mostra o dashboard completo, incluindo gráficos de vitórias, gols marcados, gols sofridos, e ranking de artilheiros do Palmeiras.
 
